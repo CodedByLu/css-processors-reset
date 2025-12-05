@@ -41,7 +41,7 @@ It is intentionally minimal and does **not** overwrite elements with design deci
 Include it at the very top of your main stylesheet, before any other CSS:
 
 ```html
-<link rel="stylesheet" href="reset.css" />
+<link rel="stylesheet" href="./reset.css" />
 ```
 
 Or, if you’re using a bundler or preprocessor:
